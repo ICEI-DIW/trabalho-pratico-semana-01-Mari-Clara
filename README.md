@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Maria Clara Dias Pereira
+Matricula: 791425
 
 ## Tela de inspeção com navegador
-
+![alt text](FerramentasDesenv.jpg)
 
 ## Tela de projeto no Replit
-
+![alt text](PaginaWeb.jpg)
